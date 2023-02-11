@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.buildship.ui.wizard.project.creation">
+		<item key="project_location" value="D:\eclipse workspace\HelloGradleProject"/>
+		<item key="use_default_location" value="true"/>
+		<item key="apply_working_sets" value="false"/>
+		<item key="gradle_distribution" value="GRADLE_DISTRIBUTION(LOCAL_INSTALLATION(D:\eclipse\eclipse\gradle-7.5.1))"/>
+		<item key="gradle_user_home" value="C:\Users\CC\.gradle"/>
+		<item key="java_home" value="C:\java"/>
+		<item key="build_scans" value="false"/>
+		<item key="show_console_view" value="false"/>
+		<item key="offline_mode" value="false"/>
+		<list key="working_sets">
+		</list>
+	</section>
+</section>

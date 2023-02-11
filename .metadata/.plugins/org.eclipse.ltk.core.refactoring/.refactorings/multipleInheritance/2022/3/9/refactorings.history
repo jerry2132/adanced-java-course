@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;multipleInheritance&apos; to &apos;ArrayList/src/methodOveloading&apos;&#x0D;&#x0A;- Original project: &apos;multipleInheritance&apos;&#x0D;&#x0A;- Destination element: &apos;ArrayList/src/methodOveloading&apos;&#x0D;&#x0A;- Original element: &apos;multipleInheritance/src/multipleInheritance&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=ArrayList/src&lt;methodOveloading" element1="/src&lt;multipleInheritance" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1646491906072" version="1.0"/>
+</session>

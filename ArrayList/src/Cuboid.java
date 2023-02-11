@@ -1,0 +1,51 @@
+
+public class Cuboid {
+int width,height,depth;
+
+Cuboid(int width,int height,int depth)
+{
+this.width=width;
+this.height=height;
+this.depth=depth;
+}
+
+Cuboid(int width, int height)
+{
+	this.width=width;
+	this.height=height;
+    this.depth= 10;
+}
+
+Cuboid(int dimension)
+{
+	this.width=dimension;
+	this.height=dimension;
+	this.depth=dimension;
+}
+
+Cuboid()
+{
+	this.width=10;
+	this.height=9;
+	this.depth=5;
+}
+
+int volume()
+{
+	return width*height*depth;
+}
+public static void main(String[] args) {
+	
+	Cuboid c = new Cuboid(10,8,7);
+	System.out.println("volume of first cuboid =  "+ c.volume());
+	System.out.println();
+	Cuboid u = new Cuboid(30,10);
+	System.out.println("volme of second cuboid  =  "+u.volume());
+System.out.println();
+	Cuboid h = new Cuboid(10);
+	System.out.println("volume of third cuboid  =  "+h.volume());
+System.out.println();
+	Cuboid m = new Cuboid();
+System.out.println("volume of the fourth cuboid  = "+m.volume());
+}
+}
