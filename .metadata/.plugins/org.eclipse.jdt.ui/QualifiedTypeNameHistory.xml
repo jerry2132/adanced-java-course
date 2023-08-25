@@ -12,4 +12,22 @@
     <fullyQualifiedTypeName name="java.sql.Connection"/>
     <fullyQualifiedTypeName name="java.util.Optional"/>
     <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.lang.annotation.Target"/>
+    <fullyQualifiedTypeName name="java.lang.annotation.ElementType"/>
+    <fullyQualifiedTypeName name="java.lang.annotation.RetentionPolicy"/>
+    <fullyQualifiedTypeName name="java.lang.annotation.Retention"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="javax.swing.JFrame"/>
+    <fullyQualifiedTypeName name="gui.MainFrame"/>
+    <fullyQualifiedTypeName name="javax.swing.SwingUtilities"/>
+    <fullyQualifiedTypeName name="controller.Controller"/>
+    <fullyQualifiedTypeName name="javax.swing.JPanel"/>
+    <fullyQualifiedTypeName name="java.awt.Color"/>
+    <fullyQualifiedTypeName name="gui.MainPanel"/>
+    <fullyQualifiedTypeName name="javax.swing.JMenuBar"/>
+    <fullyQualifiedTypeName name="javax.swing.JMenu"/>
+    <fullyQualifiedTypeName name="javax.swing.JMenuItem"/>
+    <fullyQualifiedTypeName name="javax.swing.JLabel"/>
+    <fullyQualifiedTypeName name="javax.swing.JTextField"/>
+    <fullyQualifiedTypeName name="javax.swing.border.EmptyBorder"/>
 </qualifiedTypeNameHistroy>
